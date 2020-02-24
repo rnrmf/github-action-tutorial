@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React 기반 동적 웹페이지</p><p>
-          AWS S3 웹 호스팅</p><p>
+          React 기반 동적 웹페이지(v0.02)</p><p>
+          AWS S3 웹 사이트 호스팅</p><p>
           <code>
           -LEEGIBEOM-
           </code>
